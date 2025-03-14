@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-- 💻 I'm a freshman Engineering Technology major at SJSU 
+- 💻 I'm a Engineering Technology major at SJSU 
 - 🌱 I'm learning Web Development, APIs, and Database
 - 📫 Reach me at [Gmail](mailto:linh.truongngocmy@gmail.com)
 - ⚡Fun fact: I like cooking and exploring new eating places
