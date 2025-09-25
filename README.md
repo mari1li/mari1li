@@ -9,9 +9,9 @@
   
   | Rank | Languages |
   |-----:|-----------|
-  |     1| Python    |
-  |     2| Java      |
-  |     3| C#        |
+  |     1| Golang    |
+  |     2| Python    |
+  |     3| Typescript|
   
 </details>
 
